@@ -34,5 +34,5 @@ async def on_message(message):
         await message.channel.send(f"The server is {lastMessage}")
 
 
-client.run('MTEyOTg4MzE2ODUzOTk0MzAyMg.Gwu47y.fvdhOGH646xkpsU61W0JFyKLYLbixNp6o8TlP4')
+client.run('')
 
