@@ -21,7 +21,6 @@ async def on_message(message):
 
     # this runs code every time a message is sent
     # await message.channel.send("A message was just sent here!")
-    # the ID for the channel you want to use (I swapped it for testing): 1128136575776198676 
 
     if message.content.startswith("/status"):
         otherChannel = discord.utils.get(message.guild.channels, id= THE CHANNEL ID)
